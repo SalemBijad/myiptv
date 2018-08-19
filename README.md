@@ -991,8 +991,7 @@ http://landiptv.live:8080/live/ricardo/ricardo/95572.ts
 http://landiptv.live:8080/live/ricardo/ricardo/95573.ts
 #EXTINF:-1,UK: REALY
 http://landiptv.live:8080/live/ricardo/ricardo/74727.ts
-#EXTINF:-1,UK: Africa News
-http://landiptv.live:8080/live/ricardo/ricardo/65041.ts
+
 #EXTINF:-1,UK: ABC News
 http://landiptv.live:8080/live/ricardo/ricardo/96992.ts
 #EXTINF:-1,UK: Sky Cinema Premiere Plus
